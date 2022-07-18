@@ -5,7 +5,7 @@
 void FillNewArray (string[] inputArray)
 {
     int count = inputArray.Length;
-    Console.WriteLine("Введите строки");
+    Console.WriteLine("Введите строки:");
     for (int i=0; i<count; i++)
     {
         inputArray [i] = Console.ReadLine();
@@ -42,4 +42,4 @@ string[] inputArray = NewArray(count);
 FillNewArray(inputArray);
 Console.WriteLine ($"[{PrintArray(inputArray)}]");
 string[] outputArray = OutputArray (inputArray);
-Console.Write($" -> [{PrintArray(outputArray)}]");
+Console.WriteLine($" -> [{PrintArray(outputArray)}]");
