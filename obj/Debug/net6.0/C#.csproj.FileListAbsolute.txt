@@ -1,0 +1,15 @@
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/bin/Debug/net6.0/C#
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/bin/Debug/net6.0/C#.deps.json
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/bin/Debug/net6.0/C#.runtimeconfig.json
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/bin/Debug/net6.0/C#.dll
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/bin/Debug/net6.0/C#.pdb
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.csproj.AssemblyReference.cache
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.AssemblyInfoInputs.cache
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.AssemblyInfo.cs
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.dll
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/refint/C#.dll
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.pdb
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/C#.genruntimeconfig.cache
+/Users/macos/Desktop/УЧЁБА GEEK BRAINS/TEST/C#/obj/Debug/net6.0/ref/C#.dll
